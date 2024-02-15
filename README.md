@@ -1,1 +1,1 @@
-tugas python menghitunf rata-rata dan konversi temperatur
+tugas python menghitung nilai rata-rata dan konversi temperatur
